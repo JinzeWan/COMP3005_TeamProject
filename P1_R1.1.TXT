@@ -1,0 +1,1 @@
+My database is used to keep track of what players have achieved on which games. Each player will have a different number of games, and each game will have its own unique achievement list, so a player may complete one or serveral of the achievements in the game's achievement list.
